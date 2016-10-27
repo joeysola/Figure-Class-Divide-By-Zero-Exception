@@ -23,10 +23,8 @@ public class TestDVB {
         String finish = "Y";
         
         //Test Default Instance
-        System.out.println("Test Default Constructor:");
-        Fraction testD = new Fraction();
-        System.out.println("Default Constructor set to " + testD + "\n");
-        
+        System.out.println("Test Divide By Zero Exception");
+                
         //Initialize Scanner
         Scanner keyboard = new Scanner(System.in);
         
