@@ -4,7 +4,7 @@
  * Class: CIT-130
  * Purpose Of The File: Add an exception for divide by zero to Fraction Class. 
  */
-package fraction;
+//package fraction;
 
 /**
  *

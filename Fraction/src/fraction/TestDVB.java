@@ -4,7 +4,7 @@
  * Class: CIT-130
  * Purpose Of The File: Test Divide By Zero Exception
  */
-package fraction;
+//package fraction;
 
 import java.util.Scanner;
 
