@@ -55,11 +55,7 @@ public class TestDVB {
                 
                 
             }
-        
-        
-        
-        
-        
+       
         } while (validate == true);
         
         Fraction f1 = new Fraction(num,den);

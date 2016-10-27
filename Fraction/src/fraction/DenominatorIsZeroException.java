@@ -14,7 +14,7 @@ public class DenominatorIsZeroException extends Exception {
     
     //Constructors
     public DenominatorIsZeroException() {
-        super("Division by Zero!");
+        super("Division by Zero! Try Again");
                 
     }
 
