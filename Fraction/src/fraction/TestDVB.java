@@ -20,7 +20,7 @@ public class TestDVB {
         int den = 1;
         int total;
         boolean validate = true;
-        String finish = "Y";
+        
         
         //Test Default Instance
         System.out.println("Test Divide By Zero Exception");
